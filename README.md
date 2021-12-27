@@ -1,1 +1,1 @@
-# Real-time-options-database-builder
+# Automated Daily options database builder - YFinance API
